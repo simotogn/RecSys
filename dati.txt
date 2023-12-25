@@ -1,5 +1,0 @@
-RP3beta: 
--{'alpha': 0.4212426697582987, 'beta': 0.2400809967920454, 'topK': 65, 'implicit': False, 'normalize_similarity': True} val:2.97% test:3.7% submit:12.368%
-
-ItemKNNCF:
--{'topK': 17, 'shrink': 310, 'normalize': True, 'feature_weighting': 'TF-IDF'}  val:2,75 test:3,55 submit: 11.686%
